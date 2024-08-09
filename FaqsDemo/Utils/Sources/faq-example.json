@@ -1,0 +1,459 @@
+{
+    "children": [
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Lorem ipsum dolor sit amet, "
+                },
+                {
+                    "text": "consectetuer",
+                    "underline": true
+                },
+                {
+                    "text": " adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Paragraphs",
+                    "bold": true
+                }
+            ],
+            "align": "left"
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Left",
+                    "bold": true
+                },
+                {
+                    "text": ". Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+                }
+            ],
+            "align": "left"
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Right",
+                    "bold": true
+                },
+                {
+                    "text": ". Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+                }
+            ],
+            "align": "right"
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Justify",
+                    "bold": true
+                },
+                {
+                    "text": ". Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+                }
+            ],
+            "align": "justify"
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Center",
+                    "bold": true
+                },
+                {
+                    "text": ". Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+                }
+            ],
+            "align": "center"
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Lists",
+                    "bold": true
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Suspendisse",
+                    "bold": true
+                },
+                {
+                    "text": " urna nibh viverra non semper suscipit posuere a pede."
+                }
+            ]
+        },
+        {
+            "type": "bulleted-list",
+            "children": [
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Donec nec justo eget felis facilisis "
+                        },
+                        {
+                            "type": "link",
+                            "href": "mailto:ejemplo@email.com",
+                            "children": [
+                                {
+                                    "text": "ejemplo@email.com"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+                        }
+                    ]
+                },
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Aliquam "
+                        },
+                        {
+                            "text": "tincidunt",
+                            "bold": true
+                        },
+                        {
+                            "text": " mauris eu risus."
+                        }
+                    ]
+                },
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Vestibulum "
+                        },
+                        {
+                            "text": "auctor",
+                            "italic": true
+                        },
+                        {
+                            "text": " dapibus neque."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Suspendisse",
+                    "bold": true
+                },
+                {
+                    "text": " urna nibh viverra non semper suscipit posuere a pede."
+                }
+            ]
+        },
+        {
+            "type": "numbered-list",
+            "children": [
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Donec nec justo eget felis facilisis "
+                        },
+                        {
+                            "type": "link",
+                            "href": "mailto:ejemplo@email.com",
+                            "children": [
+                                {
+                                    "text": "ejemplo@email.com"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+                        }
+                    ]
+                },
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Aliquam "
+                        },
+                        {
+                            "text": "tincidunt",
+                            "bold": true
+                        },
+                        {
+                            "text": " mauris eu risus."
+                        }
+                    ]
+                },
+                {
+                    "type": "list-item",
+                    "children": [
+                        {
+                            "text": "Vestibulum "
+                        },
+                        {
+                            "text": "auctor",
+                            "italic": true
+                        },
+                        {
+                            "text": " dapibus neque."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Images",
+                    "bold": true
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "url": "https://picsum.photos/id/10/200/200",
+            "children": [
+                {
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Morbi in sem quis dui placerat ornare. "
+                },
+                {
+                    "text": "Pellentesque",
+                    "bold": true
+                },
+                {
+                    "text": " odio."
+                }
+            ],
+            "align": "center"
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Praesent "
+                },
+                {
+                    "text": "dapibus",
+                    "italic": true,
+                    "bold": true
+                },
+                {
+                    "text": " neque id cursus faucibus tortor neque egestas auguae eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi tincidunt quis accumsan porttitor facilisis luctus metus."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": ""
+                },
+                {
+                    "type": "link",
+                    "href": "https://www.paginaejemplo.mx",
+                    "children": [
+                        {
+                            "text": "paginaejemplo.mx"
+                        }
+                    ]
+                },
+                {
+                    "text": ""
+                },
+                {
+                    "type": "link",
+                    "href": "https://www.paginaejemplo.mx",
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ]
+                },
+                {
+                    "text": ""
+                },
+                {
+                    "type": "link",
+                    "href": "https://www.paginaejemplo.mx",
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ]
+                },
+                {
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "¿Por qué me conviene subir de nivel?",
+                    "bold": true
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Porque te da mejores beneficios para ganar puntos más rápido."
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "children": [
+                {
+                    "type": "table-row",
+                    "children": [
+                        {
+                            "type": "table-cell",
+                            "children": [
+                                {
+                                    "type": "image",
+                                    "url": "https://www.bu.edu/globalprograms/files/2015/05/banner-placeholder.png",
+                                    "children": [
+                                        {
+                                            "text": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table-cell",
+                            "children": [
+                                {
+                                    "text": "Inicias en este nivel y juntar puntos te permite subir al siguiente."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table-row",
+                    "children": [
+                        {
+                            "type": "table-cell",
+                            "children": [
+                                {
+                                    "type": "image",
+                                    "url": "https://www.bu.edu/globalprograms/files/2015/05/banner-placeholder.png",
+                                    "children": [
+                                        {
+                                            "text": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table-cell",
+                            "children": [
+                                {
+                                    "text": "Al pertenecer a este nivel, tus puntos "
+                                },
+                                {
+                                    "text": "se acumulan un 50% más",
+                                    "bold": true
+                                },
+                                {
+                                    "text": "."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table-row",
+                    "children": [
+                        {
+                            "type": "table-cell",
+                            "children": [
+                                {
+                                    "type": "image",
+                                    "url": "https://www.bu.edu/globalprograms/files/2015/05/banner-placeholder.png",
+                                    "children": [
+                                        {
+                                            "text": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table-cell",
+                            "children": [
+                                {
+                                    "text": "Cuando alcances este nivel, todos los puntos que "
+                                },
+                                {
+                                    "text": "acumules serán dobles",
+                                    "bold": true
+                                },
+                                {
+                                    "text": "."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "children": [
+                {
+                    "text": "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi euismod in pharetra a ultricies in diam. Sed arcu. Cras consequat."
+                }
+            ]
+        }
+    ]
+}

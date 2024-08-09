@@ -1,0 +1,112 @@
+{
+  "children": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Porque te da mejores beneficios para ganar puntos más rápido."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "children": [
+        {
+          "type": "table-row",
+          "children": [
+            {
+              "type": "table-cell",
+              "children": [
+                {
+                  "type": "image",
+                  "url": "https://www.bu.edu/globalprograms/files/2015/05/banner-placeholder.png",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table-cell",
+              "children": [
+                {
+                  "text": "Inicias en este nivel y juntar puntos te permite subir al siguiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table-row",
+          "children": [
+            {
+              "type": "table-cell",
+              "children": [
+                {
+                  "type": "image",
+                  "url": "https://www.bu.edu/globalprograms/files/2015/05/banner-placeholder.png",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table-cell",
+              "children": [
+                {
+                  "text": "Al pertenecer a este nivel, tus puntos "
+                },
+                {
+                  "text": "se acumulan un 50% más",
+                  "bold": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table-row",
+          "children": [
+            {
+              "type": "table-cell",
+              "children": [
+                {
+                  "type": "image",
+                  "url": "https://www.bu.edu/globalprograms/files/2015/05/banner-placeholder.png",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table-cell",
+              "children": [
+                {
+                  "text": "Cuando alcances este nivel, todos los puntos que "
+                },
+                {
+                  "text": "acumules serán dobles",
+                  "bold": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

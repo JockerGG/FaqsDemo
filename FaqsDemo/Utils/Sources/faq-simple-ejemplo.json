@@ -1,0 +1,175 @@
+{
+  "children": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lorem ipsum dolor sit amet, "
+        },
+        {
+          "text": "consectetuer",
+          "underline": true
+        },
+        {
+          "text": " adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Suspendisse",
+          "bold": true
+        },
+        {
+          "text": " urna nibh viverra non semper suscipit posuere a pede."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Donec nec justo eget felis facilisis "
+            },
+            {
+              "type": "link",
+              "href": "ejemplo@email.com",
+              "children": [
+                {
+                  "text": "ejemplo@email.com"
+                }
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Aliquam "
+            },
+            {
+              "text": "tincidunt",
+              "bold": true
+            },
+            {
+              "text": " mauris eu risus."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Vestibulum "
+            },
+            {
+              "text": "auctor",
+              "italic": true
+            },
+            {
+              "text": " dapibus neque."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/id/10/200/200",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Morbi in sem quis dui placerat ornare. "
+        },
+        {
+          "text": "Pellentesque",
+          "bold": true
+        },
+        {
+          "text": " odio."
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Praesent "
+        },
+        {
+          "text": "dapibus",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "text": " neque id cursus faucibus tortor neque egestas auguae eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi tincidunt quis accumsan porttitor facilisis luctus metus."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "href": "https://www.paginaejemplo.mx",
+          "children": [
+            {
+              "text": "paginaejemplo.mx"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "href": "http://www.example.org",
+          "children": [
+            {
+              "text": "Link"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
