@@ -19,11 +19,14 @@ struct LinkElement: Codable {
             linkString.append(linkText)
         }
         
-        if let href,
-            linkString.string.contains(href) {
-            let nsString = linkString.string as NSString
-            let range = nsString.range(of: href)
-            linkString.addAttribute(.link, value: href, range: range)
+        if let href {
+            if linkString.string.contains(href) {
+                let nsString = linkString.string as NSString
+                let range = nsString.range(of: href)
+                linkString.addAttribute(.link, value: href, range: range)
+            } else {
+                linkString.addAttribute(.link, value: href, range: NSRange(location: 0, length: linkString.length))
+            }
         } else {
             linkString.addAttribute(.link, value: linkString.string, range: NSRange(location: 0, length: linkString.length))
         }

@@ -14,6 +14,7 @@ final class ParagraphCell: UITableViewCell, ReusableView {
         textView.translatesAutoresizingMaskIntoConstraints = false
         textView.isScrollEnabled = false
         textView.isEditable = false
+        textView.delegate = self
         
         return textView
     }()

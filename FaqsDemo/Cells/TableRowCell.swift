@@ -99,7 +99,8 @@ class TableRowCell: UICollectionViewCell, ReusableView {
         textView.attributedText = text
         textView.isEditable = false
         textView.sizeToFit()
-
+        textView.delegate = self
+        
         return textView
     }
     
