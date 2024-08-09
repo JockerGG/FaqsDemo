@@ -40,7 +40,6 @@
 		9B1734762C6513F6005DF51B /* TableTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1734752C6513F6005DF51B /* TableTVCell.swift */; };
 		9B1734782C65167C005DF51B /* TableRowCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1734772C65167C005DF51B /* TableRowCell.swift */; };
 		9B17347A2C652903005DF51B /* DynamicHeightCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1734792C652903005DF51B /* DynamicHeightCollectionView.swift */; };
-		9B17347C2C652C93005DF51B /* ColumnFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B17347B2C652C93005DF51B /* ColumnFlowLayout.swift */; };
 		9B17347E2C6534AC005DF51B /* NSAttributedString+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B17347D2C6534AC005DF51B /* NSAttributedString+Extension.swift */; };
 		9B17348E2C6579D0005DF51B /* RedHatDisplay-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B1734802C6579CF005DF51B /* RedHatDisplay-LightItalic.ttf */; };
 		9B17348F2C6579D0005DF51B /* RedHatDisplay-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B1734812C6579CF005DF51B /* RedHatDisplay-Black.ttf */; };
@@ -145,7 +144,6 @@
 		9B1734752C6513F6005DF51B /* TableTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableTVCell.swift; sourceTree = "<group>"; };
 		9B1734772C65167C005DF51B /* TableRowCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableRowCell.swift; sourceTree = "<group>"; };
 		9B1734792C652903005DF51B /* DynamicHeightCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicHeightCollectionView.swift; sourceTree = "<group>"; };
-		9B17347B2C652C93005DF51B /* ColumnFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColumnFlowLayout.swift; sourceTree = "<group>"; };
 		9B17347D2C6534AC005DF51B /* NSAttributedString+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSAttributedString+Extension.swift"; sourceTree = "<group>"; };
 		9B1734802C6579CF005DF51B /* RedHatDisplay-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RedHatDisplay-LightItalic.ttf"; sourceTree = "<group>"; };
 		9B1734812C6579CF005DF51B /* RedHatDisplay-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RedHatDisplay-Black.ttf"; sourceTree = "<group>"; };
@@ -256,7 +254,6 @@
 				9B17341D2C647059005DF51B /* LaunchScreen.storyboard */,
 				9B1734202C647059005DF51B /* Info.plist */,
 				9B1734792C652903005DF51B /* DynamicHeightCollectionView.swift */,
-				9B17347B2C652C93005DF51B /* ColumnFlowLayout.swift */,
 			);
 			path = FaqsDemo;
 			sourceTree = "<group>";
@@ -635,7 +632,6 @@
 				9B1734472C6470BB005DF51B /* TextElement.swift in Sources */,
 				9B1734DF2C658C07005DF51B /* FontSingleton.swift in Sources */,
 				9B1734702C649324005DF51B /* ListCell.swift in Sources */,
-				9B17347C2C652C93005DF51B /* ColumnFlowLayout.swift in Sources */,
 				9B17345B2C6471A6005DF51B /* FAQDocument.swift in Sources */,
 				9B17347E2C6534AC005DF51B /* NSAttributedString+Extension.swift in Sources */,
 				9B17345F2C6471DB005DF51B /* ReusableView.swift in Sources */,
